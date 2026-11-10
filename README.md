@@ -1,8 +1,8 @@
 # pedidos-config
 
-**Autor:** Arthur Gabriel Borges
+**Autor:** Emanuel Ferreira Guedes
 
-Sistema legado de pedidos de uma loja virtual (`pedidos_legado.py`), usado na atividade de controle de versão: branches, conflitos de merge, tags, releases, issues e pull requests.
+Projeto de um sistema de pedidos para uma loja virtual, utilizado para praticar gerenciamento de versões com Git e GitHub, incluindo criação de branches, resolução de conflitos, merges, tags, releases, issues e pull requests.
 
 ## Como executar
 
